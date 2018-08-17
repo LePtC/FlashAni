@@ -3,9 +3,7 @@
 
 ## 柱子+粒子游走模版
 
-视频教程（正在制作）
-
-成品展示：av000000
+视频教程：[av29577482](https://www.bilibili.com/video/av29577482)，成品展示：[av29475242](https://www.bilibili.com/video/av29475242)
 
 教程一共用到了以下工具/素材：
 
