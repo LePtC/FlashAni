@@ -13,5 +13,10 @@
 - Just Color Picker 采集颜色
 - 思源黑体 SourceHanSansSC-Medium （如果用模版的字体的话）
 
+## 柱子+曲线图模版
+
+输入数据格式同上，成品展示：[av29475242](https://www.bilibili.com/video/av29475242)
+
+
 
 
