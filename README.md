@@ -11,27 +11,27 @@
 <table>
   <tr>
     <td>视频教程</td>
-    <td>[狸子教你用Flash做柱图可视化](https://www.bilibili.com/video/av29577482)</td>
+    <td><a href="https://www.bilibili.com/video/av29577482">狸子教你用Flash做柱图可视化</a></td>
   </tr>
   <tr>
     <td>成品展示</td>
-    <td>[【可视化】手机端哪个浏览器用户最多？](https://www.bilibili.com/video/av29475242)</td>
+    <td><a href="https://www.bilibili.com/video/av29475242">【可视化】手机端哪个浏览器用户最多？</a></td>
   </tr>
   <tr>
     <td>其它使用此模版的作品</td>
-    <td>[【可视化】哪个浏览器的用户最多？（2009~2018）](http://www.bilibili.com/video/av28473191/)</td>
+    <td><a href="http://www.bilibili.com/video/av28473191/">【可视化】哪个浏览器的用户最多？（2009~2018）</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>[【可视化】国内各大社交网站的兴衰（2004~2018）](http://www.bilibili.com/video/av28715222/)</td>
+    <td><a href="http://www.bilibili.com/video/av28715222/">【可视化】国内各大社交网站的兴衰（2004~2018）</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>[【可视化】国内即时通讯软件的兴衰（2004~2018）](http://www.bilibili.com/video/av28888596/)</td>
+    <td><a href="http://www.bilibili.com/video/av28888596/">【可视化】国内即时通讯软件的兴衰（2004~2018）</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>[【可视化】全球即时通讯软件的兴衰（2004~2018）](http://www.bilibili.com/video/av29062055//)</td>
+    <td><a href="http://www.bilibili.com/video/av29062055//">【可视化】全球即时通讯软件的兴衰（2004~2018）</a></td>
   </tr>
 </table>
 
@@ -50,15 +50,15 @@
 <table>
   <tr>
     <td>成品展示</td>
-    <td>[【可视化】国内各大直播网站日访问量变迁（2017~2018）](http://www.bilibili.com/video/av30002425/)</td>
+    <td><a href="http://www.bilibili.com/video/av30002425/">【可视化】国内各大直播网站日访问量变迁（2017~2018）</a></td>
   </tr>
   <tr>
     <td>其它使用此模版的作品</td>
-    <td>[【可视化】国内各大视频网站日访问量变迁（2017~2018）](http://www.bilibili.com/video/av29816713/)</td>
+    <td><a href="http://www.bilibili.com/video/av29816713/">【可视化】国内各大视频网站日访问量变迁（2017~2018）</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>[【可视化】国内各大电商网站日访问量变迁（2017~2018）](http://www.bilibili.com/video/av30001723/)</td>
+    <td><a href="http://www.bilibili.com/video/av30001723/">【可视化】国内各大电商网站日访问量变迁（2017~2018）</a></td>
   </tr>
 </table>
 
@@ -76,7 +76,7 @@
 <table>
   <tr>
     <td>成品展示</td>
-    <td>[【可视化】哪家快递你用的最多？国内快递网站日访问量变迁（2017~2018）](https://www.bilibili.com/video/av30826479/)</td>
+    <td><a href="https://www.bilibili.com/video/av30826479/">【可视化】哪家快递你用的最多？国内快递网站日访问量变迁（2017~2018）</a></td>
   </tr>
 </table>
 
@@ -90,7 +90,7 @@
 <table>
   <tr>
     <td>成品展示（片尾有简短教程）</td>
-    <td>[【可视化】B站投稿狂魔是谁？UP主稿件总时长排行（2010~2018）](https://www.bilibili.com/video/av30745010/)</td>
+    <td><a href="https://www.bilibili.com/video/av30745010/">【可视化】B站投稿狂魔是谁？UP主稿件总时长排行（2010~2018）</a></td>
   </tr>
 </table>
 
